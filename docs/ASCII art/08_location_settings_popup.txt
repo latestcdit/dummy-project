@@ -1,0 +1,33 @@
+
++--------------------------------------------------+
+| Locations and Environments                 [x] |
++--------------------------------------------------+
+|                                                  |
+|  Location:                                       |
+|  [ Germany (auto-detected)                ]    |
+|                                                  |
+|  Workplace type:                                 |
+|  [x] Remote    [x] Hybrid    [x] Onsite          |
+|                                                  |
+|  Physical position:                              |
+|  [x] Sitting/desk jobs   [x] Active              |
+|                                                  |
+|  Physical environment:                           |
+|  [x] Office    [x] Outdoor   [x] Vehicle         |
+|  [x] Industrial [x] Customer-facing              |
+|                                                  |
+|  Physical labor intensity:                       |
+|  [x] Low       [x] Medium    [x] High            |
+|                                                  |
+|  Cognitive demand:                               |
+|  [x] Low       [x] Medium    [x] High            |
+|                                                  |
+|  Computer usage level:                           |
+|  [x] Low       [x] Medium    [x] High            |
+|                                                  |
+|  Oral communication level:                       |
+|  [x] Low       [x] Medium    [x] High            |
+|                                                  |
+|  [ Clear ]                       [ Apply ]       |
+|                                                  |
++--------------------------------------------------+
