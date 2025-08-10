@@ -4,9 +4,11 @@ This document outlines the screens that need to be created for the IRN Cave job 
 
 ## 1. Home/Job Search Page (Unauthenticated & Authenticated)
 
-*   **Description:** This is the main landing page for the application. It will feature the primary header with the company logo, a prominent search bar, and a location box. Below the header, it will display a list of job search categories and filters on the left, and the job search results on the right. When a user is authenticated, the header will also contain a menu with links to "Saved Jobs," "Account," and "Inbox."
+*   **Description:** This is the main landing page for the application. It will feature the primary header with the company logo, a prominent search bar, and a location box. When job results are active, a third header will appear below the primary header with category filters. Below the header, it will display a list of job search categories and filters on the left, and the job search results on the right. When a user is authenticated, the header will also contain a menu with links to "Saved Jobs," "Account," and "Inbox."
 *   **Components:**
     *   Primary Header (Logo, Search Bar, Location Box, Menu Icon)
+    *   Third Header (Job Results Active): Contains category filters that appear as buttons. Clicking on a button opens a popup with filter options.
+    *   Saved Searches Display: A section above the job results that shows the user's saved searches.
     *   Job Search Categories/Filters Sidebar (Static and Dynamic)
     *   Job Search Results (Job Cards, Sorting, Filtering, Stats)
     *   Job Details Sidebar (appears when a job is selected)
@@ -67,3 +69,4 @@ This document outlines the screens that need to be created for the IRN Cave job 
 *   **Menu Focus Group:** A dropdown/flyout menu that appears when the menu icon is clicked. Shows different options based on whether the user is authenticated or not.
 *   **Save Search Popup:** Appears when a user wants to save their current search criteria.
 *   **Account Management Popup:** This might be a modal on the account page for editing details. The PRD calls it a "popup".
+*   **Header Category Filter Popup:** Appears when a category filter button in the "Third Header" is clicked. Contains checkboxes and other filter controls related to that category.

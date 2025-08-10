@@ -6,22 +6,24 @@
 +----------------------------------------------------------------------------------------------------------------------+
 |                                                                                                                      |
 |   +----------------------------------+      +--------------------------------------------------------------------+   |
-|   | Filters                          |      |                                                                    |   |
-|   |----------------------------------|      |   Showing 23 jobs from 12 companies in Germany                     |   |
+|   | Filters                          |      |   Your Saved Searches: [ My Awesome Search ] [ Another Search ]    |   |
+|   |----------------------------------|      |--------------------------------------------------------------------|   |
 |   |                                  |      |                                                                    |   |
-|   | [ ] Department                   |      |   +--------------------------------------------------------------+   |   |
-|   | [ ] Salary                       |      |   | Job Title 1                                                  |   |   |
-|   | [ ] Commitment                   |      |   | Company Name | Location | Remote/Full-time                  |   |   |
-|   | [ ] Experience                   |      |   | ------------------------------------------------------------ |   |   |
-|   | [ ] Job Titles and Keywords      |      |   | Company description snippet...                               |   |   |
-|   | [ ] Education                    |      |   | Requirements preview...                                      |   |   |
-|   | [ ] License and Certification    |      |   | [Python] [Pandas]                                            |   |   |
-|   | [ ] Security Clearance           |      |   +--------------------------------------------------------------+   |   |
-|   | [ ] Languages                    |      |                                                                    |   |
+|   | [ ] Department                   |      |   Showing 23 jobs from 12 companies in Germany                     |   |
+|   | [ ] Salary                       |      |                                                                    |   |
+|   | [ ] Commitment                   |      |   +--------------------------------------------------------------+   |   |
+|   | [ ] Experience                   |      |   | Job Title 1                                                  |   |   |
+|   | [ ] Job Titles and Keywords      |      |   | Company Name | Location | Remote/Full-time                  |   |   |
+|   | [ ] Education                    |      |   | ------------------------------------------------------------ |   |   |
+|   | [ ] License and Certification    |      |   | Company description snippet...                               |   |   |
+|   | [ ] Security Clearance           |      |   | Requirements preview...                                      |   |   |
+|   | [ ] Languages                    |      |   | [Python] [Pandas]                                            |   |   |
 |   | [ ] Shifts and Schedules         |      |   +--------------------------------------------------------------+   |   |
-|   | [ ] Travel Requirements          |      |   | Job Title 2                                                  |   |   |
-|   | [ ] Benefits and Perks           |      |   | Company Name | Location | Remote/Full-time                  |   |   |
-|   | [ ] Encouraged to Apply          |      |   | ------------------------------------------------------------ |   |   |
+|   | [ ] Travel Requirements          |      |                                                                    |   |
+|   | [ ] Benefits and Perks           |      |   +--------------------------------------------------------------+   |   |
+|   | [ ] Encouraged to Apply          |      |   | Job Title 2                                                  |   |   |
+|   |                                  |      |   | Company Name | Location | Remote/Full-time                  |   |   |
+|   |                                  |      |   | ------------------------------------------------------------ |   |   |
 |   |                                  |      |   | Company description snippet...                               |   |   |
 |   |                                  |      |   | Requirements preview...                                      |   |   |
 |   |                                  |      |   | [JavaScript] [React]                                         |   |   |
@@ -31,3 +33,4 @@
 |                                             +--------------------------------------------------------------------+   |
 |                                                                                                                      |
 +----------------------------------------------------------------------------------------------------------------------+
+it

@@ -290,6 +290,7 @@ IRN Cave is a job search platform that aggregates job postings and allows users 
 - Premium search features
 - Mobile application
 - API for third-party integrations
+- Advanced Search page with a more spacious and user-friendly interface for complex queries
 
 ## Success Metrics
 
