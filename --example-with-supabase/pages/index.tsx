@@ -6,8 +6,9 @@ import { Checkbox } from "@/components/ui/checkbox";
 import { Label } from "@/components/ui/label";
 import { MapPin, Menu } from "lucide-react";
 import { useUser } from "@supabase/auth-helpers-react";
-import { supabase } from "@/utils/supabase";
+import { supabase } from "@/utils/supabase/client";
 import { useEffect, useState } from "react";
+import Link from "next/link";
 
 const filterCategories = [
   "Department",
@@ -54,6 +55,7 @@ export default function Home() {
   const [searchTerm, setSearchTerm] = useState<string>("");
 
   useEffect(() => {
+    console.log("Fetching filters...");
     const fetchFilters = async () => {
       const { data: departmentsData, error: departmentsError } = await supabase.from("departments").select("*");
       if (departmentsError) console.error("Error fetching departments:", departmentsError);
@@ -141,6 +143,7 @@ export default function Home() {
   };
 
   useEffect(() => {
+    console.log("Fetching jobs...");
     const fetchJobs = async () => {
       let query = supabase.from("jobs").select(
         `
